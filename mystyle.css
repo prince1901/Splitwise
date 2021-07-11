@@ -1,0 +1,10 @@
+.margin{
+	margin-top: 10px;
+}
+body{
+ background-image: url('https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28313.jpg?size=626&ext=jpg');
+ text-align: center;
+}
+span {
+	color: crimson;
+}
